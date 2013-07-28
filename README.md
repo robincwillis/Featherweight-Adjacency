@@ -1,7 +1,7 @@
 Title:Featherweights Adjacency Graph  
 Author: Robin Willis  
 Modified: 7/30/11  
-Version:  1 
+Version:  1  
 [Homepage](http://code.robincwillis.com)
 ___
 **License:** MIT
